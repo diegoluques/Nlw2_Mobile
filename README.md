@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [@expo-google-fonts](https://github.com/expo/google-fonts/)
 
 ## <p id='layout'>🎨 Layout ? </p>
-  Para visualizar o design do app, <a target="_blank" href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">clique aqui</a>
+  Para visualizar o design do app no <strong>Figma</strong>, <a target="_blank" href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">clique aqui</a>
   
 ## <p id='como'>💻 Como usar </p>
 Para clonar e executar este aplicativo, na linha de comando:

@@ -1,5 +1,5 @@
 <h1 align="center" >
-  Proffy
+  <img src="./assets/proffy.png" width='250'>
 </h1>
 
 <h4 align="center">
@@ -8,16 +8,16 @@
 </h4>
 
 <p align="center">
+  <a href='#proffy'>Proffy </a>|
   <a href='#tecnologies'>Tecnologias </a>|
   <a href='#functionalities'>Funcionalidades </a>|
   <a href='#layout'>Layout </a>|
-  <a href="#information_source-como-usar">Como usar </a>
+  <a href="#como">Como usar </a>
 </p>
 
-<p align="center">
-  <img alt="App Demo" src="./assets/ui.png">
-</p>
-
+## <p id='proffy'>📚 Proffy </p>
+O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
+---
 ## <p id='functionalities'> ⚙ Funcionalidades </p>
 1. Calendario das aulas.
 2. O aluno pode entrar em contato com um professor específico.
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
   Para visualizar o design do app, <a target="_blank" href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">clique aqui</a>
 
-## <p id='layout'>💻 Como usar </p>
+## <p id='como'>💻 Como usar </p>
 
 Para clonar e executar este aplicativo, na linha de comando:
 

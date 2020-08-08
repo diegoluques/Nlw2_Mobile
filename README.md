@@ -4,15 +4,19 @@
 
 <p align="center">
   <a href='#proffy'>Proffy </a>|
-  <a href='#tecnologies'>Tecnologias </a>|
   <a href='#functionalities'>Funcionalidades </a>|
+  <a href='#tecnologies'>Tecnologias </a>|
   <a href='#layout'>Layout </a>|
   <a href="#como">Como usar </a>
 </p>
 
+---
+
 ## <p id='proffy'>📚 Proffy </p>
 O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
 Evento disponibilizado pela Rocketseat (https://rocketseat.com.br/)
+
+---
 
 ## <p id='functionalities'> ⚙ Funcionalidades </p>
 1. Calendario das aulas.
@@ -20,8 +24,9 @@ Evento disponibilizado pela Rocketseat (https://rocketseat.com.br/)
 3. Listas de professores disponíveis.
 4. Campo de inscrição, para professores.
 
-## <p id='tecnologies'>💻 Tecnologias </p>
+---
 
+## <p id='tecnologies'>💻 Tecnologias </p>
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [Expo](https://expo.io/)
@@ -31,12 +36,14 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -  [@expo/vector-icons](https://expo.github.io/vector-icons/)
 -  [@expo-google-fonts](https://github.com/expo/google-fonts/)
 
-## <p id='layout'>🎨 Layout ? </p>
+---
 
+## <p id='layout'>🎨 Layout ? </p>
   Para visualizar o design do app, <a target="_blank" href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile">clique aqui</a>
+  
+---
 
 ## <p id='como'>💻 Como usar </p>
-
 Para clonar e executar este aplicativo, na linha de comando:
 
 ```bash

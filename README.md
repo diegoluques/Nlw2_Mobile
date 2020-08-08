@@ -2,11 +2,6 @@
   <img src="./assets/proffy.png" width='250'>
 </h1>
 
-<h4 align="center">
-  Plataforma para conectar professores (proffys) e alunos</br>
-  Evento disponibilizado pela Rocketseat (https://rocketseat.com.br/)
-</h4>
-
 <p align="center">
   <a href='#proffy'>Proffy </a>|
   <a href='#tecnologies'>Tecnologias </a>|
@@ -17,7 +12,8 @@
 
 ## <p id='proffy'>📚 Proffy </p>
 O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
----
+Evento disponibilizado pela Rocketseat (https://rocketseat.com.br/)
+
 ## <p id='functionalities'> ⚙ Funcionalidades </p>
 1. Calendario das aulas.
 2. O aluno pode entrar em contato com um professor específico.

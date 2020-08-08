@@ -56,3 +56,4 @@ $ yarn
 # Iniciar Expo
 $ yarn start
 ```
+

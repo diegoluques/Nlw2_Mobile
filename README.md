@@ -41,7 +41,7 @@ Para clonar e executar este aplicativo, na linha de comando:
 $ git clone https://github.com/diegoluques/app-proffy.git
 
 # Vá para o repositório
-$ cd mobile
+$ cd app-proffy
 
 # Instalar dependências
 $ yarn

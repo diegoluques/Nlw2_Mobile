@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import React from 'react'; 
+import React from 'react';
+import { Platform } from 'react-native';
 import { AppLoading } from 'expo';
 
 import { Archivo_400Regular, Archivo_700Bold, useFonts } from '@expo-google-fonts/archivo';
@@ -15,8 +16,14 @@ export default function App() {
 		Poppins_600SemiBold,
 	})
 
+
+
 	if (!fontsLoaded) {
-		return <AppLoading />
+		return (
+			<>
+				<AppLoading />
+				<StatusBar style="light" />
+			</>)
 	} else {
 		return (
 			<>
